@@ -1,3 +1,7 @@
+  
+  *{
+    cursor: url("./seringa_cursor_64px.png") 5 5, auto !important;  }
+  
   /* ============ 1. Cores e tipografia (altere aqui) ============ */
   :root {
     --verde-escuro: #12381f;   /* cor da marca */
